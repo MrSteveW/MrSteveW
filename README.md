@@ -6,7 +6,7 @@ I am student software developer, with a passion for building projects that will 
 🌱 My first major project has been Opendoors - a MERN-stack project booking system for pupils in a school to book lunchtime slots at their in-house radio station.
 
 <!--
-**MrSteveW/MrSteveW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Psst - to start a new line - add 2 spaces before the next line!
 
 Here are some ideas to get you started:
 
