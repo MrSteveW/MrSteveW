@@ -1,10 +1,11 @@
-## Welcome ## :tada:
+## Welcome :tada:
 
 Junior software developer. I love making web apps that rock your world.
 
 ### Feature project
 
 [Open doors demo](https://opendoors.stevewilliams.dev) - a MERN-stack project booking system for a school radio station :calendar:
+<a href="https://opendoors.stevewilliams.dev" target="_blank">Open doors demo</a>
 
 ![HTML5](assets/html5.png)
 ![CSS3](assets/css3.png)
